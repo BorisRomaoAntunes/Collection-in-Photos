@@ -23,7 +23,7 @@ struct ContentView: View {
     var body: some View {
         ScrollView{
             VStack{
-                Text ("Personagens")
+                Text ("Personagens Imagens")
                     .font(.largeTitle)
                     .foregroundColor(.accentColor)
                     .padding()
